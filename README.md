@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻<br>Curso - Java COMPLETO Programação Orientada a Objetos +Projetos
+  💻<br>Curso - Java Programação Orientada a Objetos
 </h1>
 
 <h4>Curso mais didático e completo de Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB e muito mais.</h4>
